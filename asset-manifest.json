@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Facebook-Login-React/static/css/main.922f5d75.chunk.css",
+    "main.js": "/Facebook-Login-React/static/js/main.7ae0a9e9.chunk.js",
+    "main.js.map": "/Facebook-Login-React/static/js/main.7ae0a9e9.chunk.js.map",
+    "runtime-main.js": "/Facebook-Login-React/static/js/runtime-main.3fea4588.js",
+    "runtime-main.js.map": "/Facebook-Login-React/static/js/runtime-main.3fea4588.js.map",
+    "static/js/2.843e0991.chunk.js": "/Facebook-Login-React/static/js/2.843e0991.chunk.js",
+    "static/js/2.843e0991.chunk.js.map": "/Facebook-Login-React/static/js/2.843e0991.chunk.js.map",
+    "index.html": "/Facebook-Login-React/index.html",
+    "precache-manifest.0828e740c4459f1cc3aa651a7f8d6bff.js": "/Facebook-Login-React/precache-manifest.0828e740c4459f1cc3aa651a7f8d6bff.js",
+    "service-worker.js": "/Facebook-Login-React/service-worker.js",
+    "static/css/main.922f5d75.chunk.css.map": "/Facebook-Login-React/static/css/main.922f5d75.chunk.css.map",
+    "static/js/2.843e0991.chunk.js.LICENSE.txt": "/Facebook-Login-React/static/js/2.843e0991.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fea4588.js",
+    "static/js/2.843e0991.chunk.js",
+    "static/css/main.922f5d75.chunk.css",
+    "static/js/main.7ae0a9e9.chunk.js"
+  ]
+}
